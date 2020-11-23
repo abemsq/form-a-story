@@ -2,6 +2,8 @@
 
 Simple static website using HTTP forms and CSS styling.
 
+![image](https://github.com/abemsq/form-a-story/blob/master/picture.png)
+
 ## HTML: Home
 ```
 <!DOCTYPE html>
